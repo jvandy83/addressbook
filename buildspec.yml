@@ -15,8 +15,10 @@ phases:
       - npm run-script build
 
 artifacts:
-  base-directory: dist/my-angular-project
+  base-directory: dist
   # include all files required to run application
   # notably excluded is node_modules, as this will cause overwrite error on deploy
   files:
-    - "**/*"
+    - "dist/**/*"
+    - appspec.yml
+    - "deploy-scripts/**/*"
