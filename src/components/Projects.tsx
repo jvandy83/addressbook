@@ -29,8 +29,7 @@ export const Projects = () => {
             href="https://github.com/jvandy83/address-book.git"
             className="py-2 cursor-pointer"
           >
-            <span className="text-blue-200">Source code:</span>{" "}
-            https://github.com/jvandy83/address-book.git
+            View the source code
           </a>
           <div className="flex justify-center pt-4">
             <a href="https://contact-saver.com">
@@ -61,8 +60,7 @@ export const Projects = () => {
             href="https://github.com/jvandy83/custom-color-app"
             className="py-2 cursor-pointer"
           >
-            <span className="text-blue-200">Source code:</span>{" "}
-            https://github.com/jvandy83/custom-color-app.git
+            View the source code
           </a>
           <div className="flex justify-center pt-4">
             <a
@@ -99,8 +97,7 @@ export const Projects = () => {
             unassuming application.
           </p>
           <a href="https://weather-app.co" className="py-2 cursor-pointer">
-            <span className="text-blue-200">Source code:</span>{" "}
-            https://github.com/jvandy83/weather-app.git
+            View the source code
           </a>
           <div className="flex justify-center pt-4">
             <a
