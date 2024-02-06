@@ -33,7 +33,7 @@ export const Projects = () => {
             https://github.com/jvandy83/address-book.git
           </a>
           <div className="flex justify-center pt-4">
-            <a href="http://addressbookapp.info">
+            <a href="https://contact-saver.com">
               <button className="border p-2 rounded hover:bg-darkPurple hover:text-orange hover:border-transparent hover:-translate-y-px active:translate-y-px">
                 Have a look
               </button>
